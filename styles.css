@@ -1,0 +1,15 @@
+body {
+    background-color: #111;
+}
+
+h1 {
+    color: #eee;
+}
+
+section {
+    margin: auto;
+}
+
+section img {
+    width: 100vw;
+}
